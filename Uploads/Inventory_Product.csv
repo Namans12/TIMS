@@ -1,0 +1,501 @@
+﻿ProductName,Description,ProductImage,ProductCategory,ModelNumber,SerialNumber,StockLevel,ReorderPoint
+Cisco ISR 1101,ISR 1101 4 Ports GE Ethernet WAN Router,,Router,XYZ123,6a38028c-6a71-4f44-b8f6-253bc7086a0a,500,150
+HP 5406zl,HP ProCurve Switch 5406zl,,Switch,ABC456,7edc108e-45e0-4997-bc59-17852d16b689,300,100
+DOCSIS 3.1 Cable Modem,Superfast speeds up to 10 gigabits per second (Gbps),modem.jpg,Modem,LMN789,e41e2e16-2945-4c0c-a584-48935742fe94,200,50
+Cellular Duplexer Rx,A multiplexer product that is RoHS6 compliant ,,Multiplexer,DSC423,6aac9135-9ceb-4535-a13a-fc04ad8dadd5,200,50
+SBB100 Splitter Trough Block, Splitter block  with copper-aluminium monopiece connector,splitter.jpg,Splitter,BGH678,b01f5fea-f863-441e-9150-c5595caa9f01,400,75
+Proximity Card,A contactless smart card ,card.jpg,Card,DCH987,52778604-d2a0-490d-9a13-9888fa56ab6b,500,150
+DOCSIS 3.0 16x4 (CM500),A High Speed Cable Modem,,Modem,VBN697,4a278cee-1b80-403b-a36a-3dfcdfe41d6c,300,100
+DOCSIS 3.1 Cable Modem (CM1100) ,A Nighthawk Multi-Gig Cable Modem,,Modem,MKL921,dd5ecf3b-5877-4c5b-9c0f-cb8c6f295300,400,75
+CMOS 40G Serial Mux,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,DCM123,86f11167-b85a-4f90-9b97-cc6fd58ff043,300,100
+DOCSIS 3.0 24x8 Cable Modem (CM600),A NETGEAR High Speed 960Mbps Cable Modem,,Modem,KHN834,8f939ea3-4cf3-4d93-8804-715c2985e2fc,200,50
+RF Combiner,A two-way combiner,,Combiner,CMB354,8a83f58d-4fdd-46e5-9875-70ff3ade604c,300,75
+Cisco ISR 1100,Integrated Services Router,,Router,XYZ124,116c7388-78b3-496c-a242-283f07762f4f,500,150
+HP 5400zl,HP ProCurve Switch 5400zl,,Switch,ABC457,7f8809c5-55b6-493b-8368-a84c0cef5d9f,400,100
+DOCSIS 3.0 Cable Modem,A High Speed Cable Modem,modem.jpg,Modem,LMN790,2dab1be5-9235-4c4d-a2fa-82a185a5656e,200,50
+WR90 Duplexer,RF waveguide duplexer ,,Multiplexer,DSC424,51536b90-e402-4f9c-807a-c8469bf1519d,200,50
+PLC Splitter,Integrated waveguide optical power distribution device,splitter.jpg,Splitter,BGH679,95d2af07-0e80-479b-aa90-3472cd23a627,400,75
+RFID Card,Radio-Frequency Identification Card,card.jpg,Card,DCH988,19f6b8d4-0523-4e66-81d3-efd3ae948d0e,500,150
+DOCSIS 3.0 16x4 (CM501),A High Speed Cable Modem,,Modem,VBN698,4ca869ea-304c-4886-b51c-7276a0441841,300,100
+DOCSIS 3.1 Cable Modem (CM1200) ,A Nighthawk Multi-Gig Cable Modem,,Modem,MKL922,43ae21bc-d86e-46a0-bfcc-cd1342de2350,400,75
+CMOS 50G Serial Mux,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,DCM124,37999055-85d7-4604-8f9f-2e54cffe29d1,300,100
+DOCSIS 3.0 24x8 Cable Modem (CM700),A NETGEAR High Speed 960Mbps Cable Modem,,Modem,KHN835,2899ba7c-9f25-4d39-9393-95f42db0cdbe,200,50
+ETL-700  Combiner,A two-way combiner,,Combiner,CMB355,9fee289e-c0a6-4772-a8eb-d3563bc59601,300,75
+CISCO IR530,Provides enterprise-class RF mesh connectivity,,Router,XYZ125,4e787e51-9f7c-44f9-8e70-4196d5f36bb9,500,150
+HP JG540A,48 Port Ethernet Smart Managed Switch,,Switch,ABC458,2c69b480-641b-4979-b2ca-c8bbeaf36d4f,300,100
+DOCSIS 4.0 Cable Modem,Superfast speeds up to 10 gigabits per second (Gbps),modem.jpg,Modem,LMN791,58dea32c-71ff-4503-a18e-d9f88dcd8f52,200,50
+Cellular Duplexer Tx,A multiplexer product that is RoHS6 compliant ,,Multiplexer,DSC425,720039b1-287e-4a4e-b1c5-d3748883c956,200,50
+SBB200 Splitter Trough Block, Splitter block constructed with copper-aluminium ,splitter.jpg,Splitter,BGH680,3970656c-a293-4b57-8135-8bb4c453930c,400,75
+Proximity  Smart Card,A contactless smart card ,card.jpg,Card,DCH989,65d403cc-e9f5-4a00-a9b5-611a01197221,500,150
+DOCSIS 4.0 16x4 (CM500),A High Speed Cable Modem,,Modem,VBN699,e27bca53-f8aa-4ccb-9acf-525a420f0e1f,300,100
+DOCSIS 4.1 Cable Modem (CM1100) ,A Nighthawk Multi-Gig Cable Modem,,Modem,MKL923,42b0ea31-8b6b-4f8f-a5d0-e79ac9ef51e5,400,75
+CMOS 10G Serial Mux,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,DCM125,891e1ae5-e986-404b-9adb-b02835fcbc3a,300,100
+DOCSIS 4.0 24x8 Cable Modem (CM600),A NETGEAR High Speed 960Mbps Cable Modem,,Modem,KHN836,bef137c6-3495-41ff-bc8b-1faf3886fbf9,200,50
+ETL-2200  Combiner,A two-way combiner,,Combiner,CMB356,16316828-f5b6-4ce1-90ce-22a30f63d1ae,300,75
+Cisco IR510,Wireless personal area network Router,,Router,XYZ126,57e605a3-70f7-4af7-8c7b-9eb666fc2b78,500,150
+HP JG539A,"Fast Ethernet web managed ""smart"" switch",,Switch,ABC459,654aaca2-3759-41a7-a263-bb1d8e7f61ef,400,100
+DOCSIS 4.1 Cable Modem,A High Speed Cable Modem,modem.jpg,Modem,LMN792,1059b6ed-4bbf-4f5f-91a3-bb5a0ad3c38c,200,50
+WR70 Duplexer,RF waveguide duplexer ,,Multiplexer,DSC426,18ba494e-d197-45de-9e80-094effa33e82,200,50
+Optical Splitter,Integrated waveguide optical power distribution device,splitter.jpg,Splitter,BGH681,2e4af4d4-ba7c-4967-8b39-1ff8c994c8e2,400,75
+UHF RFID Card,Radio-Frequency Identification Card,card.jpg,Card,DCH990,753b4103-f723-474f-93e6-efedc89ed23d,500,150
+DOCSIS 4.0 16x4 (CM501),A High Speed Cable Modem,,Modem,VBN700,ae324390-2938-4f47-926f-f6a9be0027ef,300,100
+DOCSIS 4.1 Cable Modem (CM1200) ,A Nighthawk Multi-Gig Cable Modem,,Modem,MKL924,961b9854-2bee-44de-9d48-5e6229e7f71e,400,75
+CMOS 20G Serial Mux,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,DCM126,0a89e834-c733-4ec0-a808-00510da661a9,300,100
+DOCSIS 4.0 24x8 Cable Modem (CM700),A NETGEAR High Speed 960Mbps Cable Modem,,Modem,KHN837,db986872-e13b-4c15-9700-efe2910a568c,200,50
+ETL-1100  Combiner,A two-way combiner,,Combiner,CMB357,dc75187b-ad1f-4bdf-a22d-880a248490ed,300,75
+Cisco IR921,4-port GbE Integrated Security Router,,Router,XYZ127,003bc53f-207d-44a1-99c2-99403dc273d6,500,150
+HP JG537A,HPE OfficeConnect 1910 8 PoE+ Switch,,Switch,ABC460,cca52bf1-e822-493d-a024-d4b17d6a6a57,400,100
+4G LTE Modem ,4G LTE speeds up to 150 Mbps downloads and 50 Mbps uploads,modem.jpg,Modem,LMN793,c7a6d5b4-93a3-4843-b40f-622331c498ff,200,50
+Cellular Duplexer Rx (MHz),RX cellular duplexer ,,Multiplexer,DSC427,672f2c6f-4198-4074-92bf-eb8a617d454f,200,50
+SBB100 Splitter Trough,Standard splitter,splitter.jpg,Splitter,BGH682,e0d5c880-ab45-47b6-978a-cd903297b5bd,400,75
+HID Proximity Card ,Radio-Frequency Identification Card,card.jpg,Card,DCH991,6bdf766d-c589-4cbd-8704-84e351ca94f5,500,150
+DOCSIS 3.0 16x4 (CM600),A High Speed Cable Modem,,Modem,VBN701,b31c6122-f02e-48a2-9c03-e9708026d7fb,300,100
+DOCSIS 3.1 Cable Modem (CM600) ,A Nighthawk Multi-Gig Cable Modem,,Modem,MKL925,0e27794e-01ba-47d9-b3c4-c41470fe71bd,400,75
+CMOS 5G Serial Mux,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,DCM127,b22ca6d0-8833-41cd-b5cf-7c42f2ccfe1e,300,100
+DOCSIS 3.0 24x8 Cable Modem (CM500),A NETGEAR High Speed 960Mbps Cable Modem,,Modem,KHN838,710cd4b9-2b9c-4d7b-85c6-9df4fa1f7a81,200,50
+ETL-1200  Combiner,A two-way combiner,,Combiner,CMB358,11de01f5-a09d-45c9-9d7d-4bc2789ea78e,300,75
+N600 WiFi Cable Modem,N600 Dual Band WiFi—300+300 Mbps,modem.jpg,Modem,LMN794,6aa51c7b-0b6e-47c3-950c-51bff302f530,200,50
+Cisco IR1800,High performance modular router,,Router,XYZ128,04d6173e-cda0-4212-aee7-faf5c25382dd,500,150
+HP JG543A,HPE OfficeConnect 1910 8 PoE+ Switch,,Switch,ABC461,7c571302-62e5-4d69-b0ee-61eb2b172a07,400,100
+C3700 Wi-Fi Cable Modem,Wifi Cable Modem,modem.jpg,Modem,DSC428,407586ef-e0ab-40a4-b424-da8dd152fa66,200,50
+Cellular Duplexer Tx (MHz),TX cellular duplexer ,,Multiplexer,BGH683,50fd7c74-62b1-4ac4-9956-0176d7d47761,200,50
+BEL T4404 T Series Splitter Trough,Standard splitter,splitter.jpg,Splitter,DCH992,efe79028-f929-4b30-a112-f091ee142150,400,75
+NFC Proximity Card ,Radio-Frequency Identification Card,card.jpg,Card,VBN702,3e4a2606-7e78-4ece-b231-182a36c54495,500,150
+DOCSIS 3.0 16x4 (CM1000),A High Speed Cable Modem,,Modem,MKL926,af921b4d-4fc3-447c-b965-86edec0f1e3d,300,100
+DOCSIS 3.1 Cable Modem (CM1000) ,A Nighthawk Multi-Gig Cable Modem,,Modem,KHN839,2fd0199c-9050-49bf-8cc4-b7ddacceb242,400,75
+DOCSIS 3.0 24x8 Cable Modem (CM1000),A NETGEAR High Speed 960Mbps Cable Modem,,Modem,CMB359,cfcb06e0-06a2-436c-a015-2ac233824885,200,50
+COM-G3-L1-403-S5S5,A Four-way combiner,,Combiner,BGH684,dad627fe-e8f6-49ec-a798-9a7460577397,300,75
+BEL T6404 T Series Splitter Trough,Distribution Splitter Trough,splitter.jpg,Splitter,BGH685,1588c307-6d71-4a22-8af1-465f4c76d462,400,75
+T4104 Bel Electrical Splitter,superior performance and durability. With a 125 amp capacity,splitter.jpg,Splitter,DSC429,c186287a-c4ad-4e60-98cb-d76c720d37d1,400,75
+PCS Duplexer Rx (MHz),PCS Rx duplexer ,,Multiplexer,DSC430,522c7557-49e6-4336-89c9-a2748e50ecae,200,50
+Cisco XR500,"Routing Protocols (BGP, OSPF)",,Router,ISR-4331,750ed809-3733-44ac-ae74-6d3c6f590730,200,50
+Cisco ISR-4331,Cisco Integrated Services Router 4331 ,,Router,2960X-24PS-L,e61fb3a3-ce4d-4c77-8dda-a0cbf0712391,400,75
+Cisco Catalyst 2960X, Layer 2 Switch with 24 Ports,,Switch,FS-1X2,133ce016-bd3f-4be7-9aa3-e7d4fce0e70b,400,75
+1x2 Fiber Splitter, Used for optical signal splitting,splitter.jpg,Splitter,TG3482G,525967c2-841a-4f08-ad1a-80cc214e4253,200,50
+Arris DOCSIS 3.1 Cable Modem, Supports Gigabit Speed,,Modem,OPC-2X2,cef63935-236c-4eab-89f2-b7673fc47088,300,75
+Optical Power Combiner,2x2 configuration for optical fibers,,Combiner,VIC-4FXS/DID,5798d08c-8124-46d5-ba2f-17ab0829fdf7,400,75
+Ethernet Card,Cisco 8-Port Gigabit Ethernet Card for ISR Series,,Card,STM-16,4a7ab7dc-5585-4b15-884f-b3e4c8db3650,400,75
+Sonet Multiplexer,Aggregates voice and data channels,,Multiplexer,MX960,b98391b5-c868-4613-b202-840d27ed3b06,200,50
+"Juniper MX960,", Core Router with 10GbE Ports,,Router,JL358A,6af5ac68-e09f-486e-a691-3996da2c7547,200,50
+HP Aruba 2930F,"Managed Layer 3 Switch, 48 Ports",,Switch,B2368-66,53b2d027-8949-4d9a-b7e7-b83e74fd59a9,400,75
+Huawei 5G CPE, Wireless Modem for High-Speed Internet,,Modem,ISR-4451-X,ee3f182d-3c69-4d6b-803e-fa787cfd8d87,300,50
+Cisco ISR 4451-X, Enterprise-Class Router,,Router,N9K-C93180YC-EX,b2832d49-5206-46a5-b7ee-922b7b92df42,400,75
+Cisco Nexus 9000,Data Center Switch,,Switch,FS-1X4,71b6d142-1284-4e28-ba3b-4580f598b6d6,200,50
+1x4 Optical Splitter, Used for optical signal splitting,,Splitter,CM1200,0d984e4d-28ad-4dc9-a6be-ab0e0fa46d5a,300,75
+ DOCSIS 3.1,Netgear Nighthawk Cable Modem,,Modem,OPC-2X4,f61b5da8-5a82-4317-b03b-99f495326be5,400,75
+2x4 Optical Power Combiner,For Fiber Networks,,Combiner,VIC-4FXS,18af39c9-b445-4145-b8b8-dfcb069d4c11,400,75
+Cisco 4-Port FXS Card,Cisco 4-Port FXS Card for ISR 4000 Series,card.jpg,Card,DWDM-40CH,3be58210-4025-403e-8d3a-08c70d7ff5f5,200,50
+Division Multiplexer (DWDM),Dense Wavelength Division Multiplexer ,,Multiplexer,AR2220,34a74ccc-0588-4e7f-a2a2-2c186e09f623,200,50
+Huawei AR2220,Enterprise Router for Branches,,Router,EX4300-48P,ccf3261e-4bb7-45fb-be04-3db91cac2226,400,75
+Juniper EX4300,48-Port Layer 3 Switch,,Switch,TC-7610,c7bdffab-bbd7-484b-859c-406573ab8e3c,300,50
+TP-Link DOCSIS 3.0 Cable Modem,High-Speed Internet,modem.jpg,Modem,NLX300,75c083e7-f683-41e5-be69-379f89f5aa1b,200,25
+NetLink-X300,High-speed wireless router,,Networking,SS24G1,56cf4fbf-f02e-44ac-8898-3efcd89cbc94,400,75
+SwiftSwitch 24,24-port Gigabit Ethernet switch,,Networking,FS4X100,c7a45640-fef4-4bfe-b006-5cc7c78d12a4,400,75
+FiberSplit-4X,Optical fiber splitter (1x4),,Optical,SM1000D,28ff8806-ad81-4cd0-b289-b41f52e01586,200,50
+SpeedModem-1000,High-speed DSL modem,,Networking,RF8C200,fd2e9a6b-12ec-44d9-8512-08f927f9dd98,300,75
+RFCombiner-8CH,8-channel RF signal combiner,,RF Equipment,NC-P100,725448ae-8bde-42e2-8e76-96c7dc8a453a,400,75
+NetCard-P100,Network interface card with PCIe support,,Components,MM32-400,e79ccc39-8e3a-4c7f-8108-40cf4cccb15a,400,75
+MultiMux-32,32-channel multiplexer for signal routing,,Optical,SRZ500,e9b40263-5242-4595-adb3-88c79d5e6402,200,50
+StreamRouter-Z500,Dual-band router with advanced firewall,,Networking,PS48G3,ab5082a6-1517-42df-880b-d66772b35f63,200,50
+ProSwitch 48,48-port managed switch,,Networking,FS8X150,4c6db6ce-51d6-4e26-9ffa-23f810e562f9,400,75
+FiberSplit-8X,Optical fiber splitter (1x8),,Optical,SM1000E,69497354-fd0a-4de7-a0a2-2879ad763cd6,300,50
+Cisco ISR 1101-1,ISR 1101 4 Ports GE Ethernet WAN Router,,Router,ROU-2060,346e44bc-313a-3de7-a0a2-3379ad763cd6,500,150
+HP 5406zl-1,HP ProCurve Switch 5406zl,,Switch,SPL-6936,aa204dba-b4df-4037-42c1-12c62e7bd05h,300,100
+DOCSIS 3.1 Cable Modem-1,Superfast speeds up to 10 gigabits per second (Gbps),modem.jpg,Modem,CAR-4625,078807aa-fb9b-43ad-8d54-81ab843cfb6e,200,50
+Cellular Duplexer Rx-1,A multiplexer product that is RoHS6 compliant ,,Multiplexer,COM-1426,d15ca878-480d-42c1-bd05-52a8b1ca849a,200,50
+SBB100 Splitter Trough Block-1, Splitter block  with copper-aluminium monopiece connector,splitter.jpg,Splitter,SWI-5860,4e3c2160-bbbc-4f62-9a9f-8aad0ff30b9f,400,75
+Proximity Card-1,A contactless smart card ,card.jpg,Card,MUL-8863,2e37b889-7403-4d06-b3ff-12c62e73bdca,500,150
+DOCSIS 3.0 16x4 (CM500)-1,A High Speed Cable Modem,,Modem,CAR-6941,a2bfe603-34e0-4d53-9ca6-120c8aaa7471,300,100
+DOCSIS 3.1 Cable Modem (CM1100) -1,A Nighthawk Multi-Gig Cable Modem,,Modem,MOD-6166,f1da3db0-8212-4f8a-99df-ce25dde0033d,400,75
+CMOS 40G Serial Mux-1,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,MUL-8648,96f7b1bf-cd34-45ed-ba75-0a1764951a60,300,100
+DOCSIS 3.0 24x8 Cable Modem (CM600)-1,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,MUL-6875,5963a970-3d0a-423a-b545-0cae14ee2319,200,50
+RF Combiner-1,A two-way combiner,,Combiner,COM-6780,4f54adf0-542c-41d0-955e-da74b0079806,300,75
+Cisco ISR 1100-1,Integrated Services Router,,Router,MUL-4778,6bd27463-e0d4-421c-9ec8-de69e53daee7,500,150
+HP 5400zl-1,HP ProCurve Switch 5400zl,,Switch,CAR-2556,4a230d55-bc73-4897-bfc5-58e2410c0154,400,100
+DOCSIS 3.0 Cable Modem-1,A High Speed Cable Modem,modem.jpg,Modem,SWI-8876,fca8a2a8-09ef-45a2-90ba-8d6cdaf85914,200,50
+WR90 Duplexer-1,RF waveguide duplexer ,,Multiplexer,SWI-6512,351c0e75-59ae-4f2c-95f1-7ed61a5c7f59,200,50
+PLC Splitter-1,Integrated waveguide optical power distribution device,splitter.jpg,Splitter,COM-1693,9ae46cd1-4db9-46e4-bfcb-87c24e26a269,400,75
+RFID Card-1,Radio-Frequency Identification Card,card.jpg,Card,SWI-3134,00c2189d-f96b-4072-9802-fef1a7a84821,500,150
+DOCSIS 3.0 16x4 (CM501)-1,A High Speed Cable Modem,,Modem,CAR-2114,5128d9c4-9760-463c-915c-b80da3aae284,300,100
+DOCSIS 3.1 Cable Modem (CM1200) -1,A Nighthawk Multi-Gig Cable Modem,,Modem,SPL-2148,521304f0-7420-4f33-940e-f440fc4007e5,400,75
+CMOS 50G Serial Mux-1,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,MUL-3041,5a70200f-841b-44a6-ab51-c0697f515be1,300,100
+DOCSIS 3.0 24x8 Cable Modem (CM700)-1,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,ROU-3300,fcfcacf2-a9f9-47d8-a34d-3eca82d9e70e,200,50
+ETL-700  Combiner-1,A two-way combiner,,Combiner,CAR-6222,d57ce50c-b330-4326-a667-d7008139617a,300,75
+CISCO IR530-1,Provides enterprise-class RF mesh connectivity,,Router,COM-1214,850b57fb-2f5f-4876-bd0c-a83fdec5bad7,500,150
+HP JG540A-1,48 Port Ethernet Smart Managed Switch,,Switch,MOD-4333,561b9c1a-e74b-43b8-addb-9d8bd69a16db,300,100
+DOCSIS 4.0 Cable Modem-1,Superfast speeds up to 10 gigabits per second (Gbps),modem.jpg,Modem,CAR-3891,969f8fb1-bcb2-4999-a665-334b60a248a3,200,50
+Cellular Duplexer Tx-1,A multiplexer product that is RoHS6 compliant ,,Multiplexer,ROU-5849,4ec3e8e0-e532-46f2-8f4c-2dc6e39a26df,200,50
+SBB200 Splitter Trough Block-1, Splitter block constructed with copper-aluminium ,splitter.jpg,Splitter,SPL-3324,9191e742-5a30-454f-a29b-a978972f0669,400,75
+Proximity  Smart Card-1,A contactless smart card ,card.jpg,Card,COM-2427,10004ed5-a059-4282-97f5-d8b56d50ee73,500,150
+DOCSIS 4.0 16x4 (CM500)-1,A High Speed Cable Modem,,Modem,SPL-8104,b66a508f-6953-4881-ba74-fdc5d3f20931,300,100
+DOCSIS 4.1 Cable Modem (CM1100) -1,A Nighthawk Multi-Gig Cable Modem,,Modem,CAR-9232,757d86eb-b13d-4211-9537-72e6a6c75eb3,400,75
+CMOS 10G Serial Mux-1,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,MOD-1485,51c3ed06-2a54-4880-9117-8f57eba229db,300,100
+DOCSIS 4.0 24x8 Cable Modem (CM600)-1,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,SWI-1942,6978c9e1-808a-45c9-bcb0-b7dc729e3a4a,200,50
+ETL-2200  Combiner-1,A two-way combiner,,Combiner,SWI-7059,7363cc48-ee72-438e-a589-1e665be2c494,300,75
+Cisco IR510-1,Wireless personal area network Router,,Router,COM-8819,d348c10b-fc2a-428b-8c82-6d8340276666,500,150
+HP JG539A-1,"Fast Ethernet web managed ""smart"" switch",,Switch,CAR-3592,5e55e780-b2db-4beb-b863-f2eb4de564b2,400,100
+DOCSIS 4.1 Cable Modem-1,A High Speed Cable Modem,modem.jpg,Modem,MOD-1856,846f25fa-dde6-4cbd-908c-3df992521053,200,50
+WR70 Duplexer-1,RF waveguide duplexer ,,Multiplexer,MOD-1702,a31a56aa-978a-4aec-aedc-37dad7d764d5,200,50
+Optical Splitter-1,Integrated waveguide optical power distribution device,splitter.jpg,Splitter,ROU-2495,bd370c42-6d8e-4aa2-b52d-44bf7f980960,400,75
+UHF RFID Card-1,Radio-Frequency Identification Card,card.jpg,Card,MUL-9132,00774361-0cf9-4d23-a59d-3068075cbaa4,500,150
+DOCSIS 4.0 16x4 (CM501)-1,A High Speed Cable Modem,,Modem,CAR-5277,9837d335-cdfa-476d-8a8a-11d1ea08c5b8,300,100
+DOCSIS 4.1 Cable Modem (CM1200) -1,A Nighthawk Multi-Gig Cable Modem,,Modem,ROU-8688,703ce7e1-0209-40b7-af9d-84a380c7a124,400,75
+CMOS 20G Serial Mux-1,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,MUL-8537,a3bb40b7-69f1-42cf-975d-1a44ecea5fd6,300,100
+DOCSIS 4.0 24x8 Cable Modem (CM700)-1,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,COM-6883,a5ee1984-30a8-4ca1-a808-44d8b86a3df7,200,50
+ETL-1100  Combiner-1,A two-way combiner,,Combiner,SWI-2399,a79e27de-37e8-42f5-9a83-ad8f3ecf2f9d,300,75
+Cisco IR921-1,4-port GbE Integrated Security Router,,Router,CAR-2977,7ee43b7b-f4d6-4ed7-9544-8c2402d3f3fa,500,150
+HP JG537A-1,HPE OfficeConnect 1910 8 PoE+ Switch,,Switch,MOD-6493,5c915c2e-821e-455b-a49e-fe2bc4c9716c,400,100
+4G LTE Modem -1,4G LTE speeds up to 150 Mbps downloads and 50 Mbps uploads,modem.jpg,Modem,ROU-6099,027d6de7-2561-4044-8850-69fd519798c6,200,50
+Cellular Duplexer Rx (MHz)-1,RX cellular duplexer ,,Multiplexer,SWI-3590,f88ad7f9-18ce-4d05-a984-3832a24511f5,200,50
+SBB100 Splitter Trough-1,Standard splitter,splitter.jpg,Splitter,SWI-5768,b90d0899-000a-408f-a47f-a546683b4141,400,75
+HID Proximity Card -1,Radio-Frequency Identification Card,card.jpg,Card,SPL-8468,291bdb76-278b-44d3-a7d5-65639b10c8ef,500,150
+DOCSIS 3.0 16x4 (CM600)-1,A High Speed Cable Modem,,Modem,MUL-9453,dd724aff-181e-40e6-88da-389d9cb4deeb,300,100
+DOCSIS 3.1 Cable Modem (CM600) -1,A Nighthawk Multi-Gig Cable Modem,,Modem,SPL-8257,1429a7b4-b5a0-4761-afa8-1509d9429ffd,400,75
+CMOS 5G Serial Mux-1,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,MOD-9739,07cb02ca-c481-46d6-b9e1-f5518dd00cb8,300,100
+DOCSIS 3.0 24x8 Cable Modem (CM500)-1,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,CAR-4964,8aa4b156-0dfc-4076-8031-69b87d2582cc,200,50
+ETL-1200  Combiner-1,A two-way combiner,,Combiner,MOD-6886,9b2262e3-6a82-4952-b43e-0b57d5b8c3a1,300,75
+N600 WiFi Cable Modem-1,N600 Dual Band WiFi—300+300 Mbps,modem.jpg,Modem,MUL-9730,93eddd5f-80cc-4bc0-a30b-28ee63b32c22,200,50
+Cisco IR1800-1,High performance modular router,,Router,COM-6998,de061b2c-a591-4d42-b2c5-d27b61ac06ad,500,150
+HP JG543A-1,HPE OfficeConnect 1910 8 PoE+ Switch,,Switch,MOD-9806,6bbbde59-057d-40ee-92be-5d9554a9c110,400,100
+C3700 Wi-Fi Cable Modem-1,Wifi Cable Modem,modem.jpg,Modem,CAR-6909,daad8277-a8e8-4334-9a59-06829f982f4c,200,50
+Cellular Duplexer Tx (MHz)-1,TX cellular duplexer ,,Multiplexer,CAR-7736,7e5dc445-cb9a-4e7f-874f-59a1aebad4aa,200,50
+BEL T4404 T Series Splitter Trough-1,Standard splitter,splitter.jpg,Splitter,MOD-8555,a47527ad-3779-4c65-85ed-68665d381765,400,75
+NFC Proximity Card -1,Radio-Frequency Identification Card,card.jpg,Card,ROU-8450,4c74b717-d24e-459b-8fb8-cebe5b7ac3e8,500,150
+DOCSIS 3.0 16x4 (CM1000)-1,A High Speed Cable Modem,,Modem,MUL-8185,f4e461bc-9601-407b-9936-af6a60795e93,300,100
+DOCSIS 3.1 Cable Modem (CM1000) -1,A Nighthawk Multi-Gig Cable Modem,,Modem,CAR-3214,a439d0a9-5446-4a6d-b856-1f0162b82592,400,75
+DOCSIS 3.0 24x8 Cable Modem (CM1000)-1,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,SWI-3270,f2c4834a-9077-4cf0-ace9-f77302d4b9ed,200,50
+COM-G3-L1-403-S5S5-1,A Four-way combiner,,Combiner,COM-9494,0647c055-fa5b-425a-a34d-f334060ba112,300,75
+BEL T6404 T Series Splitter Trough-1,Distribution Splitter Trough,splitter.jpg,Splitter,SWI-1083,cf9b1bc7-3e07-45ca-855f-8677ced6be92,400,75
+T4104 Bel Electrical Splitter-1,superior performance and durability. With a 125 amp capacity,splitter.jpg,Splitter,SWI-6642,fb9ec029-e539-4be7-aeb7-0c16b897902a,400,75
+PCS Duplexer Rx (MHz)-1,PCS Rx duplexer ,,Multiplexer,CAR-9252,34d26774-14cd-4b2d-bbdf-174e2813bd43,200,50
+Cisco XR500-1,"Routing Protocols (BGP, OSPF)",,Router,MOD-1893,f25d57f1-72a1-4860-b69f-d9a2a9131b8d,200,50
+Cisco ISR-4331-1,Cisco Integrated Services Router 4331 ,,Router,SPL-1568,eecfb8c9-dba5-40ee-aaff-befcd72ad4e3,400,75
+Cisco Catalyst 2960X-1, Layer 2 Switch with 24 Ports,,Switch,MOD-7074,b5574859-1a06-4ca6-bafa-4d6ecf100463,400,75
+1x2 Fiber Splitter-1, Used for optical signal splitting,splitter.jpg,Splitter,CAR-8945,e86f4374-acbf-4380-a474-d8ec0a5f6cbf,200,50
+Arris DOCSIS 3.1 Cable Modem-1, Supports Gigabit Speed,,Modem,COM-8842,a59e327e-d6c5-4e59-9c49-a5445b4a191d,300,75
+Optical Power Combiner-1,2x2 configuration for optical fibers,,Combiner,CAR-2606,c7a76c0b-df4c-45ae-a7b6-24c10723f884,400,75
+Ethernet Card-1,Cisco 8-Port Gigabit Ethernet Card for ISR Series,,Card,ROU-2028,2a3a7c39-5b7d-4ad6-979c-64107027560b,400,75
+Sonet Multiplexer-1,Aggregates voice and data channels,,Multiplexer,MOD-5947,27d80c0b-5391-499c-aef5-49e419790fd0,200,50
+Juniper MX960-1, Core Router with 10GbE Ports,,Router,MUL-1950,9ea67773-5f52-425b-88a6-3bea31c9fe1e,200,50
+HP Aruba 2930F-1,"Managed Layer 3 Switch, 48 Ports",,Switch,SPL-2371,bdd2f4ca-7296-4092-8338-6559bba1a113,400,75
+Huawei 5G CPE-1, Wireless Modem for High-Speed Internet,,Modem,SWI-2811,f0d89209-5ffb-4f68-a780-fae79c2b1cc8,300,50
+Cisco ISR 4451-X-1, Enterprise-Class Router,,Router,MUL-1352,714f78a5-b52a-4f97-99eb-0ef85cb2688a,400,75
+Cisco Nexus 9000-1,Data Center Switch,,Switch,MUL-2419,f13521e7-8a5c-4aa8-a4e0-ea8d0feef08a,200,50
+1x4 Optical Splitter-1, Used for optical signal splitting,,Splitter,COM-7009,e70e6187-79b1-46eb-ad94-ef14b353739d,300,75
+ DOCSIS 3.1-1,Netgear Nighthawk Cable Modem,,Modem,MUL-3437,713a305b-f6b1-40e4-abb8-11f9066e5b2a,400,75
+2x4 Optical Power Combiner-1,For Fiber Networks,,Combiner,COM-7007,52d639cb-2ad2-4e0f-9fd0-9ff470ce6ab1,400,75
+Cisco 4-Port FXS Card-1,Cisco 4-Port FXS Card for ISR 4000 Series,card.jpg,Card,SWI-4695,04307f3b-1357-4e73-986e-11f2f6418eff,200,50
+Division Multiplexer (DWDM)-1,Dense Wavelength Division Multiplexer ,,Multiplexer,COM-5114,5cacefbd-298a-4456-9480-3dbba5b48f13,200,50
+Huawei AR2220-1,Enterprise Router for Branches,,Router,SPL-9388,5b735e98-4b1f-443d-b9e8-bb030ba9acad,400,75
+Juniper EX4300-1,48-Port Layer 3 Switch,,Switch,CAR-4761,6e82490a-86f4-441d-b272-321ad4b48ad0,300,50
+TP-Link DOCSIS 3.0 Cable Modem-1,High-Speed Internet,modem.jpg,Modem,COM-1647,30d5e9a2-e620-40bd-921c-73f5b62a8c93,200,25
+NetLink-X300-1,High-speed wireless router,,Networking,MOD-2984,9db9ef2a-4f28-474c-878a-6b1c8701b710,400,75
+SwiftSwitch 24-1,24-port Gigabit Ethernet switch,,Networking,SPL-1047,9c292473-b791-4904-9644-9e4bee687281,400,75
+FiberSplit-4X-1,Optical fiber splitter (1x4),,Optical,COM-8809,b87db093-cca7-40ff-a009-7bb7803fb3e5,200,50
+SpeedModem-1000-1,High-speed DSL modem,,Networking,MOD-5224,e6fe5f9e-0ba1-45f2-ae4d-08f9db6620b4,300,75
+RFCombiner-8CH-1,8-channel RF signal combiner,,RF Equipment,SWI-5988,430bb027-ac3b-44e7-aa8c-ebb2484f0ee9,400,75
+NetCard-P100-1,Network interface card with PCIe support,,Components,COM-4285,c7904ae9-dc2c-4f2f-b39d-aa2bd57c3c71,400,75
+MultiMux-32-1,32-channel multiplexer for signal routing,,Optical,MUL-7557,cd521223-8075-4f43-9eff-033619b537bd,200,50
+StreamRouter-Z500-1,Dual-band router with advanced firewall,,Networking,MUL-8408,6235ad6f-ae79-4df8-8246-7710e2e8c646,200,50
+ProSwitch 48-1,48-port managed switch,,Networking,SPL-8295,2ffce963-44ce-4ef5-8891-98a5bda446cd,400,75
+FiberSplit-8X-1,Optical fiber splitter (1x8),,Optical,MUL-1822,698b1d68-4c0c-4ea6-ac69-450ca38d6f14,300,50
+Cisco ISR 1101-2,ISR 1101 4 Ports GE Ethernet WAN Router,,Router,MUL-8798,99c18a8f-c068-4a43-a7a2-31cf8ad583b9,300,50
+HP 5406zl-2,HP ProCurve Switch 5406zl,,Switch,ROU-8026,153a7fdb-6644-454e-a480-11d8a76552c2,500,150
+DOCSIS 3.1 Cable Modem-2,Superfast speeds up to 10 gigabits per second (Gbps),modem.jpg,Modem,MUL-6274,56c4318c-d637-461a-9096-a2f0c79c4553,300,100
+Cellular Duplexer Rx-2,A multiplexer product that is RoHS6 compliant ,,Multiplexer,COM-7489,6600a1c4-a466-419e-829e-40a494f2ba55,200,50
+SBB100 Splitter Trough Block-2, Splitter block  with copper-aluminium monopiece connector,splitter.jpg,Splitter,SPL-3251,ce305502-974e-4214-95c0-2949386bd92f,200,50
+Proximity Card-2,A contactless smart card ,card.jpg,Card,SPL-6772,a49a0a36-27a0-4f43-9655-930d4420fbfa,400,75
+DOCSIS 3.0 16x4 (CM500)-2,A High Speed Cable Modem,,Modem,SPL-2172,3cd2cf10-4b39-4783-9814-3a75dd8aa8dc,500,150
+DOCSIS 3.1 Cable Modem (CM1100) -2,A Nighthawk Multi-Gig Cable Modem,,Modem,CAR-4968,f0b19548-5ad0-4e0e-a370-301fefd9fb26,300,100
+CMOS 40G Serial Mux-2,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,COM-8591,6bf8d1c8-1998-403a-af01-b226f2dce4ba,400,75
+DOCSIS 3.0 24x8 Cable Modem (CM600)-2,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,COM-4653,9f555936-e0ed-4b46-af3a-b8e336421ca9,300,100
+RF Combiner-2,A two-way combiner,,Combiner,MUL-8606,7f679a68-73e9-4a4f-81e8-8f6f80fe90dc,200,50
+Cisco ISR 1100-2,Integrated Services Router,,Router,MOD-1345,c176a29a-57a3-4405-95bf-c7d504d01dea,300,75
+HP 5400zl-2,HP ProCurve Switch 5400zl,,Switch,COM-4391,85c95bb7-680c-4685-9321-3f46e8cfff7b,500,150
+DOCSIS 3.0 Cable Modem-2,A High Speed Cable Modem,modem.jpg,Modem,SWI-7523,2aa7a440-27df-45e4-b9d8-d516f9d3bd65,400,100
+WR90 Duplexer-2,RF waveguide duplexer ,,Multiplexer,MOD-7850,7c6fe4c4-e703-4cf7-8f9f-212b5090f7eb,200,50
+PLC Splitter-2,Integrated waveguide optical power distribution device,splitter.jpg,Splitter,SWI-3282,345a902f-6a91-4265-b0df-cf5cab7aa74a,200,50
+RFID Card-2,Radio-Frequency Identification Card,card.jpg,Card,COM-9377,33974701-1211-4c38-919c-891f3d19162c,400,75
+DOCSIS 3.0 16x4 (CM501)-2,A High Speed Cable Modem,,Modem,SPL-6238,955e424a-9d35-4bdb-a1f2-17c89410936a,500,150
+DOCSIS 3.1 Cable Modem (CM1200) -2,A Nighthawk Multi-Gig Cable Modem,,Modem,COM-2507,d50ab19a-48d1-412e-a06c-6da8b0d2c439,300,100
+CMOS 50G Serial Mux-2,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,COM-2971,83769769-265e-461f-864b-7abb9d85e708,400,75
+DOCSIS 3.0 24x8 Cable Modem (CM700)-2,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,COM-4444,23fb1f4c-8ccb-4e99-8560-6e8d8e73e536,300,100
+ETL-700  Combiner-2,A two-way combiner,,Combiner,MOD-2411,30a3221b-09a8-4aa5-862e-52a6655081e3,200,50
+CISCO IR530-2,Provides enterprise-class RF mesh connectivity,,Router,CAR-3735,fa2e1f1a-4c62-4b14-9105-b2ab1e67b923,300,75
+HP JG540A-2,48 Port Ethernet Smart Managed Switch,,Switch,SPL-8759,70178b05-5bca-4521-8ae1-24d6e0c82506,500,150
+DOCSIS 4.0 Cable Modem-2,Superfast speeds up to 10 gigabits per second (Gbps),modem.jpg,Modem,MUL-1618,373a3999-17a1-4f0d-a5f0-ea507e5fadce,300,100
+Cellular Duplexer Tx-2,A multiplexer product that is RoHS6 compliant ,,Multiplexer,ROU-6447,ec60cd5e-3d6c-45fc-b34a-92bfda9fdaf4,200,50
+SBB200 Splitter Trough Block-2, Splitter block constructed with copper-aluminium ,splitter.jpg,Splitter,SPL-5174,4c8e44d4-58ff-49f0-bb46-4dc65c8b0ebf,200,50
+Proximity  Smart Card-2,A contactless smart card ,card.jpg,Card,ROU-9054,e4672f8d-6045-4ecc-a4fa-f6480a62a633,400,75
+DOCSIS 4.0 16x4 (CM500)-2,A High Speed Cable Modem,,Modem,COM-2969,5b5c85c3-a1c6-4970-9fe3-0324ea61fa28,500,150
+DOCSIS 4.1 Cable Modem (CM1100) -2,A Nighthawk Multi-Gig Cable Modem,,Modem,MOD-7013,ec953746-c61b-4c23-9fe5-8f5f01570fcb,300,100
+CMOS 10G Serial Mux-2,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,COM-1431,d3cb421b-aab1-45af-8e60-a95c52ee3623,400,75
+DOCSIS 4.0 24x8 Cable Modem (CM600)-2,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,SPL-4216,3c5e7eee-950f-4d01-8981-8294e7b2e688,300,100
+ETL-2100  Combiner-2,A two-way combiner,,Combiner,SWI-2026,fcf67270-4fa9-4f1c-ac2b-f761f866dc3d,200,50
+Cisco IR510-2,Wireless personal area network Router,,Router,MOD-4504,f354822d-54dd-4840-81bc-081bf737ee34,300,75
+HP JG539A-2,"Fast Ethernet web managed ""smart"" switch",,Switch,COM-8672,1d14372a-e395-4e84-99d3-69048b6b6479,500,150
+DOCSIS 4.1 Cable Modem-2,A High Speed Cable Modem,modem.jpg,Modem,SPL-2603,f5ef8ee1-e8d0-4833-84bc-1a534a390303,400,100
+WR70 Duplexer-2,RF waveguide duplexer ,,Multiplexer,ROU-8346,955dcbb9-4f8e-4de8-8348-75b03c19dd5a,200,50
+Optical Splitter-2,Integrated waveguide optical power distribution device,splitter.jpg,Splitter,MOD-1339,7a6d4f48-b8d5-4039-a873-e64261282e2e,200,50
+UHF RFID Card-2,Radio-Frequency Identification Card,card.jpg,Card,SWI-7923,f5a7386c-3fdf-4ca9-8483-bf3ac3761947,400,75
+DOCSIS 4.0 16x4 (CM501)-2,A High Speed Cable Modem,,Modem,MUL-3985,071a057d-4d6a-47c2-88bc-bc75d4045396,500,150
+DOCSIS 4.1 Cable Modem (CM1200) -2,A Nighthawk Multi-Gig Cable Modem,,Modem,COM-3524,c99373f0-7133-4da9-a289-b03e5f1e6f81,300,100
+CMOS 20G Serial Mux-2,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,SPL-6591,e192c9bf-4e0c-4be1-a1cd-242f27410788,400,75
+DOCSIS 4.0 24x8 Cable Modem (CM700)-2,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,MUL-5486,e51ec04d-3b19-445f-973c-ff645a619eeb,300,100
+ETL-2110  Combiner-2,A two-way combiner,,Combiner,COM-6683,f05b9a81-ee41-4407-8a3c-f801cd9d75c5,200,50
+Cisco IR921-2,4-port GbE Integrated Security Router,,Router,SPL-8016,c8f80097-c202-40c9-b9f9-176d0907cfb1,300,75
+HP JG537A-2,HPE OfficeConnect 1910 8 PoE+ Switch,,Switch,SPL-5622,1ed0b5bd-a5f9-4f69-85e7-e9ad9b054bb0,500,150
+4G LTE Modem -2,4G LTE speeds up to 150 Mbps downloads and 50 Mbps uploads,modem.jpg,Modem,SWI-1643,6ea33170-8c71-4f19-b2c9-9570bbe504a8,400,100
+Cellular Duplexer Rx (MHz)-2,RX cellular duplexer ,,Multiplexer,MUL-3513,ec2cb261-9f35-4430-976a-27b76825ce85,200,50
+SBB100 Splitter Trough-2,Standard splitter,splitter.jpg,Splitter,CAR-5813,dc79d17d-9db8-4b6e-9284-67e6cd955359,200,50
+HID Proximity Card -2,Radio-Frequency Identification Card,card.jpg,Card,CAR-9161,f217b4ff-81a1-4d5b-9dc2-286145e78138,400,75
+DOCSIS 3.0 16x4 (CM600)-2,A High Speed Cable Modem,,Modem,MUL-2036,544c63aa-da93-4ba6-ad67-984d937c9702,500,150
+DOCSIS 3.1 Cable Modem (CM600) -2,A Nighthawk Multi-Gig Cable Modem,,Modem,CAR-8847,aa1a680c-86ad-4bf0-8fc4-fc136be8a1e1,300,100
+CMOS 5G Serial Mux-2,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,MUL-8295,b3356e31-33b7-4e62-985d-8be66796b34f,400,75
+DOCSIS 3.0 24x8 Cable Modem (CM500)-2,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,MOD-1647,b86104e5-b96c-46d1-ad03-86a95a0ae42c,300,100
+ETL-2200  Combiner-2,A two-way combiner,,Combiner,CAR-2165,5c6de274-5c46-4e67-8e61-b044523a06a1,200,50
+N600 WiFi Cable Modem-2,N600 Dual Band WiFi—300+300 Mbps,modem.jpg,Modem,ROU-9975,c3a37a9e-01fc-46cc-bf30-d4e0d0ea8d5e,300,75
+Cisco IR1800-2,High performance modular router,,Router,COM-6019,66f34822-308e-48b4-a984-cc01863040f5,200,50
+HP JG543A-2,HPE OfficeConnect 1910 8 PoE+ Switch,,Switch,SWI-8177,9d6f8e83-1bce-4411-94f7-8fd727b6f19a,500,150
+C3700 Wi-Fi Cable Modem-2,Wifi Cable Modem,modem.jpg,Modem,MUL-1920,90cdcf6c-1dc4-405a-84a8-014031511114,400,100
+Cellular Duplexer Tx (MHz)-2,TX cellular duplexer ,,Multiplexer,MOD-6105,1decc0eb-e877-4465-9de8-d90289581bb6,200,50
+BEL T4404 T Series Splitter Trough-2,Standard splitter,splitter.jpg,Splitter,MUL-2062,eb58ea38-b916-44aa-ae74-cb133a89cf78,200,50
+NFC Proximity Card -2,Radio-Frequency Identification Card,card.jpg,Card,ROU-3690,40da4de3-43bc-4d35-818e-e039ea0ddb45,400,75
+DOCSIS 3.0 16x4 (CM1000)-2,A High Speed Cable Modem,,Modem,CAR-7784,82aafea5-a677-4d01-931b-59d64f003971,500,150
+DOCSIS 3.1 Cable Modem (CM1000) -2,A Nighthawk Multi-Gig Cable Modem,,Modem,CAR-5508,7d87d7ba-f4cf-485a-94a8-fa21ffcdff8a,300,100
+DOCSIS 3.0 24x8 Cable Modem (CM1000)-2,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,MOD-5887,a8d074f2-8524-4ee5-9021-ba5dd3c4028c,400,75
+COM-G3-L1-403-S5S5-2,A Four-way combiner,,Combiner,MOD-1148,e220e41f-7d5b-4e2a-bcb5-2c5db4a52025,200,50
+BEL T6404 T Series Splitter Trough-2,Distribution Splitter Trough,splitter.jpg,Splitter,SWI-9187,fceb3bbb-4b6a-4cf0-8603-02fa128fe62e,300,75
+T4104 Bel Electrical Splitter-2,superior performance and durability. With a 125 amp capacity,splitter.jpg,Splitter,COM-3612,a13135f4-299a-4e6b-bfac-167d6bb2da72,400,75
+PCS Duplexer Rx (MHz)-2,PCS Rx duplexer ,,Multiplexer,SWI-8169,d6399777-d0f8-4697-923c-2f57ea20c658,400,75
+Cisco XR500-2,"Routing Protocols (BGP, OSPF)",,Router,ROU-2420,7f43ffa1-5528-49b4-956a-13f6cf7d5f17,200,50
+Cisco ISR-4331-2,Cisco Integrated Services Router 4331 ,,Router,CAR-2816,d996840d-b785-4262-af07-e26e99fa47f2,200,50
+Cisco Catalyst 2960X-2, Layer 2 Switch with 24 Ports,,Switch,ROU-2829,3f1cce2a-46a1-49eb-9f3c-45ca1804d337,400,75
+1x2 Fiber Splitter-2, Used for optical signal splitting,splitter.jpg,Splitter,MOD-8251,3b15c115-335b-4593-9fa8-2a4b15a07890,400,75
+Arris DOCSIS 3.1 Cable Modem-2, Supports Gigabit Speed,,Modem,SPL-5284,2a8a4a1e-9eec-4119-80c6-c837b41acb0b,200,50
+Optical Power Combiner-2,2x2 configuration for optical fibers,,Combiner,MOD-4413,59d56cf8-fc8d-4eff-a0a0-4b7a39452598,300,75
+Ethernet Card-2,Cisco 8-Port Gigabit Ethernet Card for ISR Series,,Card,SPL-5121,8654717a-544f-47ca-9c31-fe4db088c7ca,400,75
+Sonet Multiplexer-2,Aggregates voice and data channels,,Multiplexer,MUL-9709,278f3c3b-bd6c-41fa-bf9c-2202642f0dc7,400,75
+Juniper MX960-2, Core Router with 10GbE Ports,,Router,CAR-6541,d48d8393-5e26-4f7c-af1e-544585be2961,200,50
+HP Aruba 2930F-2,"Managed Layer 3 Switch, 48 Ports",,Switch,MOD-6292,57f9fad2-7887-4e59-a8dc-2d259137d097,200,50
+Huawei 5G CPE-2, Wireless Modem for High-Speed Internet,,Modem,MOD-6558,2955b8da-f75b-4ac2-a7fb-4e6fb18b50bc,400,75
+Cisco ISR 4451-X-2, Enterprise-Class Router,,Router,MUL-1812,d6ced547-4048-4a3a-a243-0a3daf710efc,300,50
+Cisco Nexus 9000-2,Data Center Switch,,Switch,MUL-2823,5208a312-ef2e-4a3c-818a-36d0c69a2d1b,400,75
+1x4 Optical Splitter-2, Used for optical signal splitting,,Splitter,MUL-1020,3a2747f5-aafb-4416-b023-ca8a9f4b6a24,200,50
+ DOCSIS 3.1-2,Netgear Nighthawk Cable Modem,,Modem,SWI-5693,d70aa4d7-bc87-4f44-9e54-b785917da8f5,300,75
+2x4 Optical Power Combiner-2,For Fiber Networks,,Combiner,SWI-5628,81359189-abef-4f4f-a631-cbedf563693c,400,75
+Cisco 4-Port FXS Card-2,Cisco 4-Port FXS Card for ISR 4000 Series,card.jpg,Card,SPL-5344,d810d83f-8aaf-441a-854b-8f275fde1968,400,75
+Division Multiplexer (DWDM)-2,Dense Wavelength Division Multiplexer ,,Multiplexer,ROU-3412,224c42de-b4d4-46f5-8344-52256c5daa7c,200,50
+Huawei AR2220-2,Enterprise Router for Branches,,Router,MUL-8714,a7e6e8e7-b380-4db3-857d-bd4b927ac736,200,50
+Juniper EX4300-2,48-Port Layer 3 Switch,,Switch,SWI-1622,42c8b744-dc64-4ac5-913f-049dc759ac9a,400,75
+TP-Link DOCSIS 3.0 Cable Modem-2,High-Speed Internet,modem.jpg,Modem,MUL-9449,ef417567-feab-478c-a4fe-19d3714a49c4,300,50
+NetLink-X300-2,High-speed wireless router,,Networking,ROU-7948,8212bc12-6b6e-4bd8-bd9f-2de57a2fbdd9,200,25
+SwiftSwitch 24-2,24-port Gigabit Ethernet switch,,Networking,ROU-1065,aaa758d6-d77c-42e6-bc3d-86809926d2cf,400,75
+FiberSplit-4X-2,Optical fiber splitter (1x4),,Optical,SPL-7587,c9500e8a-35b9-45d9-9d20-51d47c27bc0c,400,75
+SpeedModem-1000-2,High-speed DSL modem,,Networking,CAR-1876,f76bdd6c-7d62-4d4a-8684-2515fb846c3f,200,50
+RFCombiner-8CH-2,8-channel RF signal combiner,,RF Equipment,CAR-2140,8cc16912-4552-4416-8f56-e799e2857323,300,75
+NetCard-P100-2,Network interface card with PCIe support,,Components,MOD-4319,4d3e045e-45f1-4ef9-92ae-d285964adfe9,400,75
+MultiMux-32-2,32-channel multiplexer for signal routing,,Optical,SWI-6687,98679536-f1d9-4da6-b31a-80cd34a87147,400,75
+StreamRouter-Z500-2,Dual-band router with advanced firewall,,Networking,SPL-7781,9b8f0fba-1f21-4cdb-9bf9-124177ecfebc,200,50
+ProSwitch 48-2,48-port managed switch,,Networking,MOD-4577,6540f21d-c908-4789-a2e7-e470af9c53a8,200,50
+FiberSplit-8X-2,Optical fiber splitter (1x8),,Optical,SWI-4457,87c72981-3b54-4ab7-80a6-62ee6405bd64,400,75
+Cisco ISR 1101-3,ISR 1101 4 Ports GE Ethernet WAN Router,,Router,MOD-5369,8e2c1c84-ebdf-4d5d-9020-a9daaf466e37,500,150
+HP 5406zl-3,HP ProCurve Switch 5406zl,,Switch,SWI-6731,e4ec5f18-9248-4478-9fba-c89243c05afc,300,100
+DOCSIS 3.1 Cable Modem-3,Superfast speeds up to 10 gigabits per second (Gbps),modem.jpg,Modem,CAR-1365,2ede93ef-4176-45f6-a7b8-e00dae4b85a6,200,50
+Cellular Duplexer Rx-3,A multiplexer product that is RoHS6 compliant ,,Multiplexer,MOD-1130,029c8933-289b-4f7b-9434-d3c74659a12c,200,50
+SBB100 Splitter Trough Block-3, Splitter block  with copper-aluminium monopiece connector,splitter.jpg,Splitter,ROU-3840,be96a8e1-6ef1-4a17-8894-52c2f2c48d96,400,75
+Proximity Card-3,A contactless smart card ,card.jpg,Card,SWI-1991,17d8f02d-d2f7-4a21-9db0-20246031a595,500,150
+DOCSIS 3.0 16x4 (CM500)-3,A High Speed Cable Modem,,Modem,CAR-9236,4cef99ed-9d26-453d-bffc-b7fd5879a51e,300,100
+DOCSIS 3.1 Cable Modem (CM1100) -3,A Nighthawk Multi-Gig Cable Modem,,Modem,SPL-1421,e40ea173-ef62-4afb-a8ab-760dbc4553ab,400,75
+CMOS 40G Serial Mux-3,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,SWI-9284,c4d225cc-2703-4197-958f-d610be59e61a,300,100
+DOCSIS 3.0 24x8 Cable Modem (CM600)-3,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,SPL-3061,2577e5e1-648d-4cb6-8abe-2a03192500a8,200,50
+RF Combiner-3,A two-way combiner,,Combiner,MOD-5724,d343915f-be47-406a-baa4-61d9ab56836c,300,75
+Cisco ISR 1100-3,Integrated Services Router,,Router,MUL-2812,bae9cf77-6876-4143-9ee1-252fb93a75ae,500,150
+HP 5400zl-3,HP ProCurve Switch 5400zl,,Switch,ROU-3259,6feca524-d654-4241-aece-93f85e1cf719,400,100
+DOCSIS 3.0 Cable Modem-3,A High Speed Cable Modem,modem.jpg,Modem,ROU-3808,b6d2c06c-6b58-40d8-8ab8-ca2ad7624060,200,50
+WR90 Duplexer-3,RF waveguide duplexer ,,Multiplexer,SWI-6247,87ba4ee1-c49f-4ad1-8eb2-6d24499538ab,200,50
+PLC Splitter-3,Integrated waveguide optical power distribution device,splitter.jpg,Splitter,SWI-8429,2e36f043-5925-4bd0-b1e2-5379349da21a,400,75
+RFID Card-3,Radio-Frequency Identification Card,card.jpg,Card,ROU-9829,0dfc29c6-7904-4cc2-b914-397aafee9066,500,150
+DOCSIS 3.0 16x4 (CM501)-3,A High Speed Cable Modem,,Modem,CAR-6948,4e77549f-fd44-4363-b0ba-56f5d721bfad,300,100
+DOCSIS 3.1 Cable Modem (CM1200) -3,A Nighthawk Multi-Gig Cable Modem,,Modem,SPL-8417,507b1fc1-751b-4204-a289-6b306084ed0d,400,75
+CMOS 50G Serial Mux-3,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,MUL-6470,4f96fbd3-c827-4100-a32e-3c53949aa2da,300,100
+DOCSIS 3.0 24x8 Cable Modem (CM700)-3,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,MOD-1297,96fe07ff-6f20-4188-b790-43c42ddf32fc,200,50
+ETL-700  Combiner-3,A two-way combiner,,Combiner,COM-5637,3231cd13-6ca5-441e-8e16-7c2b3af6433c,300,75
+CISCO IR530-3,Provides enterprise-class RF mesh connectivity,,Router,MUL-8292,90a2e3dc-bf8a-4628-82dd-5187b699e03a,500,150
+HP JG540A-3,48 Port Ethernet Smart Managed Switch,,Switch,COM-4673,d6d90083-c928-4d47-8f7b-1a428024b34e,300,100
+DOCSIS 4.0 Cable Modem-3,Superfast speeds up to 10 gigabits per second (Gbps),modem.jpg,Modem,ROU-1494,17a965a4-e9f5-4a6f-8661-3889506205c1,200,50
+Cellular Duplexer Tx-3,A multiplexer product that is RoHS6 compliant ,,Multiplexer,CAR-7813,c7bb6f9d-b00e-4e4f-af34-f2b3cca2bcaf,200,50
+SBB200 Splitter Trough Block-3, Splitter block constructed with copper-aluminium ,splitter.jpg,Splitter,MOD-3582,cd1f818b-aa77-42a0-83d2-c502e64a2600,400,75
+Proximity  Smart Card-3,A contactless smart card ,card.jpg,Card,MUL-1280,6ac2447a-433c-4ff2-af43-9f473d401751,500,150
+DOCSIS 4.0 16x4 (CM500)-3,A High Speed Cable Modem,,Modem,SPL-5066,383804e7-4dd8-419b-9cfc-09f6a662f0d1,300,100
+DOCSIS 4.1 Cable Modem (CM1100) -3,A Nighthawk Multi-Gig Cable Modem,,Modem,COM-6001,30222fa8-d496-41fc-9608-80bc97c1eb5e,400,75
+CMOS 10G Serial Mux-3,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,COM-2217,ca26440c-ea75-4f5f-847b-5a21009f1926,300,100
+DOCSIS 4.0 24x8 Cable Modem (CM600)-3,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,CAR-3685,290287b6-60b6-40dd-a669-fdaf3a2136fa,200,50
+ETL-3100  Combiner-3,A two-way combiner,,Combiner,SPL-2747,fa9ce773-1c84-4af6-9cf7-75a7ddcda197,300,75
+Cisco IR510-3,Wireless personal area network Router,,Router,MUL-8285,34da9bc9-a88f-4c68-a42b-f86cdd981143,500,150
+HP JG539A-3,"Fast Ethernet web managed ""smart"" switch",,Switch,COM-3393,9628ce1c-e6ec-494e-a3f7-53a41e25dde8,400,100
+DOCSIS 4.1 Cable Modem-3,A High Speed Cable Modem,modem.jpg,Modem,MOD-8565,d9ea9de0-689d-41f0-9f6c-68d41c13eae5,200,50
+WR70 Duplexer-3,RF waveguide duplexer ,,Multiplexer,ROU-7490,7ab1d69e-c816-4344-95be-bacc7b24ff11,200,50
+Optical Splitter-3,Integrated waveguide optical power distribution device,splitter.jpg,Splitter,COM-4254,454f5bfd-d643-48b6-abf5-914d9470926f,400,75
+UHF RFID Card-3,Radio-Frequency Identification Card,card.jpg,Card,COM-9278,8dacd80e-474a-4aab-934c-0a8bd29fa4d5,500,150
+DOCSIS 4.0 16x4 (CM501)-3,A High Speed Cable Modem,,Modem,ROU-2531,810df9be-b03d-41b4-b37d-446103add6b9,300,100
+DOCSIS 4.1 Cable Modem (CM1200) -3,A Nighthawk Multi-Gig Cable Modem,,Modem,ROU-2023,40b6bb1d-1818-4ce4-90b5-886e01408a6f,400,75
+CMOS 20G Serial Mux-3,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,SPL-6825,e0e102d9-812d-4f25-acc6-f62a3e0be403,300,100
+DOCSIS 4.0 24x8 Cable Modem (CM700)-3,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,MOD-9216,5a38dede-c1c1-446c-ac6f-57dafa0a70a4,200,50
+ETL-3110  Combiner-3,A two-way combiner,,Combiner,CAR-5536,3155b530-6e40-4318-a2be-13af4d92d78b,300,75
+Cisco IR921-3,4-port GbE Integrated Security Router,,Router,MOD-1132,e0b80517-1edd-412b-ac0e-521d54cdbb29,500,150
+HP JG537A-3,HPE OfficeConnect 1910 8 PoE+ Switch,,Switch,SPL-2417,1d52b79e-106f-4723-aa26-b8a3e1479f12,400,100
+4G LTE Modem -3,4G LTE speeds up to 150 Mbps downloads and 50 Mbps uploads,modem.jpg,Modem,MUL-8439,40d7cbbd-deda-4fd4-b690-94078cc79bda,200,50
+Cellular Duplexer Rx (MHz)-3,RX cellular duplexer ,,Multiplexer,SWI-2897,c86c2dce-4dbd-4359-b491-7326d177900b,200,50
+SBB100 Splitter Trough-3,Standard splitter,splitter.jpg,Splitter,SPL-8525,6ba3bb92-17be-4cdb-a3e4-ccadcd248767,400,75
+HID Proximity Card -3,Radio-Frequency Identification Card,card.jpg,Card,ROU-3245,1796041d-d08a-4c5a-aaa1-43ec71b2ce85,500,150
+DOCSIS 3.0 16x4 (CM600)-3,A High Speed Cable Modem,,Modem,MUL-1964,a0895f0e-4f6d-43c1-9c49-2d40b1a3a57e,300,100
+DOCSIS 3.1 Cable Modem (CM600) -3,A Nighthawk Multi-Gig Cable Modem,,Modem,ROU-8259,b7d59f98-e58a-4373-afb1-3e965352a9c9,400,75
+CMOS 5G Serial Mux-3,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,ROU-1118,c2e0e77c-6399-44dc-bb08-4ce32facf901,300,100
+DOCSIS 3.0 24x8 Cable Modem (CM500)-3,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,MUL-8340,10cc3c3b-ddfc-441a-a6b2-391509f47d87,200,50
+ETL-3200  Combiner-3,A two-way combiner,,Combiner,MUL-9329,11372082-a0e3-4ea0-9c14-e20181115671,300,75
+N600 WiFi Cable Modem-3,N600 Dual Band WiFi—300+300 Mbps,modem.jpg,Modem,CAR-2220,2a74f00c-8cf8-47a9-819b-cbf6ec9b1325,200,50
+Cisco IR1800-3,High performance modular router,,Router,SWI-9679,1c77440b-2015-44a8-bb2a-88ff7f62ea22,500,150
+HP JG543A-3,HPE OfficeConnect 1910 8 PoE+ Switch,,Switch,MOD-9317,0a8dcb66-546e-4d01-a9ac-4c6470e4773b,400,100
+C3700 Wi-Fi Cable Modem-3,Wifi Cable Modem,modem.jpg,Modem,MOD-4940,a8525d48-e4cb-44e7-9e5e-591c93c23d85,200,50
+Cellular Duplexer Tx (MHz)-3,TX cellular duplexer ,,Multiplexer,ROU-2486,b497089f-3464-4ffe-9608-a457e72f19a9,200,50
+BEL T4404 T Series Splitter Trough-3,Standard splitter,splitter.jpg,Splitter,SWI-3566,e0eef410-f2f3-4845-a4ce-0846fe8e2677,400,75
+NFC Proximity Card -3,Radio-Frequency Identification Card,card.jpg,Card,SWI-8448,61de62fa-4307-4a7d-9692-397359ac4ac3,500,150
+DOCSIS 3.0 16x4 (CM1000)-3,A High Speed Cable Modem,,Modem,MOD-4529,752f243c-3e35-4900-9d0c-2c0a6ffad514,300,100
+DOCSIS 3.1 Cable Modem (CM1000) -3,A Nighthawk Multi-Gig Cable Modem,,Modem,SWI-6148,986a5288-1847-401f-97f5-f98dbb3b5d33,400,75
+DOCSIS 3.0 24x8 Cable Modem (CM1000)-3,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,ROU-6961,e27e023f-8169-4f54-b477-17d3d8005e7f,200,50
+COM-G3-L1-403-S5S5-3,A Four-way combiner,,Combiner,COM-5243,6cd449f6-1802-4ecb-a68f-adfe3b053139,300,75
+BEL T6404 T Series Splitter Trough-3,Distribution Splitter Trough,splitter.jpg,Splitter,COM-2284,680c5c93-f4e8-42c4-8a25-3be30c375657,400,75
+T4104 Bel Electrical Splitter-3,superior performance and durability. With a 125 amp capacity,splitter.jpg,Splitter,SPL-1960,819f1d5e-ca96-4799-8c83-f0c3448edf88,400,75
+PCS Duplexer Rx (MHz)-3,PCS Rx duplexer ,,Multiplexer,MOD-6037,9ed785cf-b167-4251-8ca9-78647aec55e4,200,50
+Cisco XR500-3,"Routing Protocols (BGP, OSPF)",,Router,SPL-2435,7e6b0dc8-537d-4175-b507-9ed7ef8abcb5,200,50
+Cisco ISR-4331-3,Cisco Integrated Services Router 4331 ,,Router,ROU-9706,08346531-28a6-4438-a0f4-2c1e182fcc1e,400,75
+Cisco Catalyst 2960X-3, Layer 2 Switch with 24 Ports,,Switch,CAR-2378,4284e417-b239-4703-b791-b3049ff5c0be,400,75
+1x2 Fiber Splitter-3, Used for optical signal splitting,splitter.jpg,Splitter,CAR-8521,f9fc320e-3d12-4014-8b50-947437a4216b,200,50
+Arris DOCSIS 3.1 Cable Modem-3, Supports Gigabit Speed,,Modem,MOD-4843,6f92ad4a-67be-4b8c-869a-bca5d8dbf557,300,75
+Optical Power Combiner-3,2x2 configuration for optical fibers,,Combiner,COM-5840,acbcad4d-e4ea-4b0f-a626-fb01dc85bd00,400,75
+Ethernet Card-3,Cisco 8-Port Gigabit Ethernet Card for ISR Series,,Card,SWI-8507,86b3f145-b579-4320-bd2d-d10c6923c04b,400,75
+Sonet Multiplexer-3,Aggregates voice and data channels,,Multiplexer,SPL-9855,e37210c5-cd6a-46af-9053-f6eb386bccd9,200,50
+Juniper MX960-3, Core Router with 10GbE Ports,,Router,SPL-3717,fbce6490-9857-4429-b956-b45007f085cc,200,50
+HP Aruba 2930F-3,"Managed Layer 3 Switch, 48 Ports",,Switch,ROU-5377,1460b70e-19db-4b39-826a-a22da2f1db24,400,75
+Huawei 5G CPE-3, Wireless Modem for High-Speed Internet,,Modem,COM-8019,0d44c2c3-f798-4e11-b457-3aa10d5bf1a4,300,50
+Cisco ISR 4451-X-3, Enterprise-Class Router,,Router,MOD-5215,a4a725ec-64c6-49d9-8b4c-ac8899c6073a,400,75
+Cisco Nexus 9000-3,Data Center Switch,,Switch,CAR-5836,ea63741d-7f87-45de-9e28-d5ddb8e4bca9,200,50
+1x4 Optical Splitter-3, Used for optical signal splitting,,Splitter,SPL-3703,9a424043-4dbc-440a-9b3b-7740952eb735,300,75
+ DOCSIS 3.1-3,Netgear Nighthawk Cable Modem,,Modem,COM-7045,dd06401a-f99f-43d1-9818-1ca80ed912d9,400,75
+2x4 Optical Power Combiner-3,For Fiber Networks,,Combiner,CAR-8148,934babac-9b17-40e4-a7ee-edbfafb36a48,400,75
+Cisco 4-Port FXS Card-3,Cisco 4-Port FXS Card for ISR 4000 Series,card.jpg,Card,COM-8666,ca28ea73-948f-49f2-9e3d-a7362b23ba47,200,50
+Division Multiplexer (DWDM)-3,Dense Wavelength Division Multiplexer ,,Multiplexer,CAR-1975,bccd9371-34eb-4707-bf38-a3b01ee57c1e,200,50
+Huawei AR2220-3,Enterprise Router for Branches,,Router,MUL-5397,d2b9eacb-6130-4286-b90f-0f50eb778d6e,400,75
+Juniper EX4300-3,48-Port Layer 3 Switch,,Switch,MUL-6422,a9df85c8-6a65-4025-aebc-c820ee26193e,300,50
+TP-Link DOCSIS 3.0 Cable Modem-3,High-Speed Internet,modem.jpg,Modem,COM-1959,2ebd6694-b358-4b03-897c-b9924fb36dd8,200,25
+NetLink-X300-3,High-speed wireless router,,Networking,MOD-7851,0c5567eb-ac1b-4f9f-b3de-af9fa6e4f46b,400,75
+SwiftSwitch 24-3,24-port Gigabit Ethernet switch,,Networking,ROU-1219,d481ae77-5324-48c6-8fd8-93d70929d0d0,400,75
+FiberSplit-4X-3,Optical fiber splitter (1x4),,Optical,MOD-7445,93d507b1-c3e2-4ea0-aaa3-0becce397ca0,200,50
+SpeedModem-1000-3,High-speed DSL modem,,Networking,ROU-1280,ac022202-b1ef-4746-bfd3-3e874e446506,300,75
+RFCombiner-8CH-3,8-channel RF signal combiner,,RF Equipment,CAR-6068,5edf88cd-3df3-4d25-895d-aefcb1bf6315,400,75
+NetCard-P100-3,Network interface card with PCIe support,,Components,SPL-4443,89ca1134-964f-4389-a137-c9aeaab8c8eb,400,75
+MultiMux-32-3,32-channel multiplexer for signal routing,,Optical,ROU-9044,7d51e86e-8a51-4526-bc0e-008f685ae71c,200,50
+StreamRouter-Z500-3,Dual-band router with advanced firewall,,Networking,SPL-7768,8485a43d-317b-4f77-b4fa-dd54aaf62e36,200,50
+ProSwitch 48-3,48-port managed switch,,Networking,SWI-6491,3796d212-49fc-4d49-a050-315128fca51d,400,75
+FiberSplit-8X-3,Optical fiber splitter (1x8),,Optical,COM-4421,cd9028d6-b422-4356-a677-39cfa008ac62,300,50
+Cisco ISR 1101-4,ISR 1101 4 Ports GE Ethernet WAN Router,,Router,SWI-6343,272954c0-7ed4-4e67-bd29-b44b5fdff469,300,50
+HP 5406zl-4,HP ProCurve Switch 5406zl,,Switch,MUL-8135,61d61045-b78a-4724-88bd-793c8dc28e5b,500,150
+DOCSIS 3.1 Cable Modem-4,Superfast speeds up to 10 gigabits per second (Gbps),modem.jpg,Modem,CAR-4354,d46e93b7-c9a0-4b26-b7d8-4a583b6dea43,300,100
+Cellular Duplexer Rx-4,A multiplexer product that is RoHS6 compliant ,,Multiplexer,COM-5541,049c5cc5-fe4b-4d4f-9918-a8235b468894,200,50
+SBB100 Splitter Trough Block-4, Splitter block  with copper-aluminium monopiece connector,splitter.jpg,Splitter,CAR-9418,c3948428-d178-4bd5-870a-39b89aa17e35,200,50
+Proximity Card-4,A contactless smart card ,card.jpg,Card,MOD-5726,49dc9a60-74dd-4bdc-8bd5-47b8e8c38a59,400,75
+DOCSIS 3.0 16x4 (CM500)-4,A High Speed Cable Modem,,Modem,MOD-9222,0d1d6ece-b1fa-4dfe-9c60-c469f8e3c4e1,500,150
+DOCSIS 3.1 Cable Modem (CM1100) -4,A Nighthawk Multi-Gig Cable Modem,,Modem,COM-6362,a0ec4876-d7d2-4ca3-ab8e-19653d82f70b,300,100
+CMOS 40G Serial Mux-4,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,CAR-1118,f2011390-7eb4-4898-9b32-5f433c8177b2,400,75
+DOCSIS 3.0 24x8 Cable Modem (CM600)-4,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,CAR-6303,dd106f72-1300-461b-888b-368f38c78a91,300,100
+RF Combiner-4,A two-way combiner,,Combiner,COM-3986,b0fccaa2-8544-408b-9080-cbeb94233860,200,50
+Cisco ISR 1100-4,Integrated Services Router,,Router,MUL-4893,7d3df807-199a-46cc-b372-c875da016cc4,300,75
+HP 5400zl-4,HP ProCurve Switch 5400zl,,Switch,COM-7299,22e8ea66-fa85-4e31-b068-98aad05f7343,500,150
+DOCSIS 3.0 Cable Modem-4,A High Speed Cable Modem,modem.jpg,Modem,MUL-8411,f68f7bbf-27f1-44f6-9492-916108aa9235,400,100
+WR90 Duplexer-4,RF waveguide duplexer ,,Multiplexer,ROU-5330,78cc44b4-5979-43fd-8edd-5a4d29f90f6d,200,50
+PLC Splitter-4,Integrated waveguide optical power distribution device,splitter.jpg,Splitter,CAR-1583,b3a7c484-62b3-4f01-a3f3-839a460b755a,200,50
+RFID Card-4,Radio-Frequency Identification Card,card.jpg,Card,COM-7762,5f2248cd-39d5-4531-a9e1-66471f6f1900,400,75
+DOCSIS 3.0 16x4 (CM501)-4,A High Speed Cable Modem,,Modem,MOD-3519,5f7db859-3044-456b-a825-cab00a904fa4,500,150
+DOCSIS 3.1 Cable Modem (CM1200) -4,A Nighthawk Multi-Gig Cable Modem,,Modem,CAR-8372,0147e43d-c7c5-4ad1-9cda-6e6a8dde6b1f,300,100
+CMOS 50G Serial Mux-4,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,SPL-6403,67c05630-af9a-4d58-a11a-ca8f44150d88,400,75
+DOCSIS 3.0 24x8 Cable Modem (CM700)-4,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,SPL-2282,84cec894-5b86-44da-8949-1a1975cfe659,300,100
+ETL-700  Combiner-4,A two-way combiner,,Combiner,SWI-1969,fbdc9dba-b8a9-4106-bb46-fb02514f3697,200,50
+CISCO IR530-4,Provides enterprise-class RF mesh connectivity,,Router,ROU-5467,18f8626f-b040-4d98-a682-54b68be7a447,300,75
+HP JG540A-4,48 Port Ethernet Smart Managed Switch,,Switch,ROU-1471,82c0f767-b6f0-445e-928b-76bdf0a7332e,500,150
+DOCSIS 4.0 Cable Modem-4,Superfast speeds up to 10 gigabits per second (Gbps),modem.jpg,Modem,CAR-2803,72f65df9-3feb-45aa-924d-515939b6a0f0,300,100
+Cellular Duplexer Tx-4,A multiplexer product that is RoHS6 compliant ,,Multiplexer,SWI-5537,3f47e83f-fdc2-4af2-9179-8bbb43041387,200,50
+SBB200 Splitter Trough Block-4, Splitter block constructed with copper-aluminium ,splitter.jpg,Splitter,CAR-7307,8e0c0e28-d9bf-4d46-9187-1a1153777b45,200,50
+Proximity  Smart Card-4,A contactless smart card ,card.jpg,Card,COM-6545,e2604e5a-64cc-4a85-bcea-3e946b37b41a,400,75
+DOCSIS 4.0 16x4 (CM500)-4,A High Speed Cable Modem,,Modem,MUL-8579,be0e6b2e-bedd-4f0d-a9c6-374bce89433d,500,150
+DOCSIS 4.1 Cable Modem (CM1100) -4,A Nighthawk Multi-Gig Cable Modem,,Modem,SPL-2358,273ccb84-3e15-4b42-8bfc-743dcc441dcd,300,100
+CMOS 10G Serial Mux-4,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,SPL-5203,dd64ff81-b205-47c8-938a-c27373b1d894,400,75
+DOCSIS 4.0 24x8 Cable Modem (CM600)-4,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,SWI-6258,37c3ed66-d129-445e-8e24-221839d0e1a7,300,100
+ETL-4100  Combiner-4,A two-way combiner,,Combiner,CAR-5878,bb615c0a-427e-4a8f-b5d1-ee60ca583e94,200,50
+Cisco IR510-4,Wireless personal area network Router,,Router,SPL-3632,780dfbb7-3875-425e-843a-e0723c2e6158,300,75
+HP JG539A-4,"Fast Ethernet web managed ""smart"" switch",,Switch,CAR-8543,e10457d3-fe92-4629-8836-7885aee81079,500,150
+DOCSIS 4.1 Cable Modem-4,A High Speed Cable Modem,modem.jpg,Modem,SWI-4034,37b158bf-d610-42c9-8cbb-fc475b9f21c4,400,100
+WR70 Duplexer-4,RF waveguide duplexer ,,Multiplexer,MUL-7013,eb038ee9-5f83-42bc-b559-482f1f9602a4,200,50
+Optical Splitter-4,Integrated waveguide optical power distribution device,splitter.jpg,Splitter,CAR-6717,f4d9d56a-67c0-4992-a9c0-1b6fbb4604a1,200,50
+UHF RFID Card-4,Radio-Frequency Identification Card,card.jpg,Card,SPL-2734,d3878795-98b3-48b1-998d-0a89aef33914,400,75
+DOCSIS 4.0 16x4 (CM501)-4,A High Speed Cable Modem,,Modem,CAR-1321,1dab6bb7-5548-47d9-a980-88c2a10697b2,500,150
+DOCSIS 4.1 Cable Modem (CM1200) -4,A Nighthawk Multi-Gig Cable Modem,,Modem,SWI-9579,f34a3734-599a-4ffe-bbb2-9779319d81ba,300,100
+CMOS 20G Serial Mux-4,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,MOD-6896,04dd361b-ea67-40ba-808e-57968d469d2a,400,75
+DOCSIS 4.0 24x8 Cable Modem (CM700)-4,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,SWI-3486,2a5dd723-d48e-4d15-baca-ce37cd9a7221,300,100
+ETL-4110  Combiner-4,A two-way combiner,,Combiner,SWI-9646,e7c3128c-e510-4547-bac7-69bf1ef0424f,200,50
+Cisco IR921-4,4-port GbE Integrated Security Router,,Router,MUL-2013,a5f00493-ef9a-4d0b-a31f-28388b29e7d0,300,75
+HP JG537A-4,HPE OfficeConnect 1910 8 PoE+ Switch,,Switch,SPL-5274,2ee573a1-09e2-400e-83a3-c3a5c0c84f2e,500,150
+4G LTE Modem -4,4G LTE speeds up to 150 Mbps downloads and 50 Mbps uploads,modem.jpg,Modem,MOD-5939,f5018d36-836d-4c0a-9d72-9b557e719633,400,100
+Cellular Duplexer Rx (MHz)-4,RX cellular duplexer ,,Multiplexer,SPL-2911,1369052e-0b4c-47e0-8a77-0e6c505e3078,200,50
+SBB100 Splitter Trough-4,Standard splitter,splitter.jpg,Splitter,MOD-2930,a5b153c6-66fe-43b9-a550-c239153a865a,200,50
+HID Proximity Card -4,Radio-Frequency Identification Card,card.jpg,Card,ROU-5463,90583032-1dea-472e-a1e2-2c94ba1c1558,400,75
+DOCSIS 3.0 16x4 (CM600)-4,A High Speed Cable Modem,,Modem,MOD-7941,108c3fa3-806d-4516-ae75-e00feb60d87c,500,150
+DOCSIS 3.1 Cable Modem (CM600) -4,A Nighthawk Multi-Gig Cable Modem,,Modem,SPL-8060,46baa041-6490-4173-bc12-88eebb3f2f43,300,100
+CMOS 5G Serial Mux-4,A serial multiplex/demultiplex  chipset that is CMOS-based,,Multiplexer,SPL-4880,cc5ff8f6-e161-4bab-ad72-dab1071e6522,400,75
+DOCSIS 3.0 24x8 Cable Modem (CM500)-4,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,SPL-5638,232fc8b3-bb78-4e55-9582-54c47d6bb380,300,100
+ETL-4200  Combiner-4,A two-way combiner,,Combiner,SPL-2665,0c2fd9ed-4d74-47db-819e-20eeddfe3917,200,50
+N600 WiFi Cable Modem-4,N600 Dual Band WiFi—300+300 Mbps,modem.jpg,Modem,CAR-2420,ee973a6b-4a7a-4ee5-b412-22d90d0090b0,300,75
+Cisco IR1800-4,High performance modular router,,Router,SWI-3019,e3f1036a-511a-4c86-aaa2-60197a37f7bf,200,50
+HP JG543A-4,HPE OfficeConnect 1910 8 PoE+ Switch,,Switch,MOD-6245,e6865331-c83d-4fd0-ac43-c11fffda67d4,500,150
+C3700 Wi-Fi Cable Modem-4,Wifi Cable Modem,modem.jpg,Modem,ROU-7358,7450da34-4710-43da-ba50-5fc1218a356a,400,100
+Cellular Duplexer Tx (MHz)-4,TX cellular duplexer ,,Multiplexer,CAR-7544,121dc835-0842-458c-b9f4-a9831bb370dc,200,50
+BEL T4404 T Series Splitter Trough-4,Standard splitter,splitter.jpg,Splitter,SPL-1412,434c1b8e-f4ea-4d50-87b1-e8927aacb8bb,200,50
+NFC Proximity Card -4,Radio-Frequency Identification Card,card.jpg,Card,SPL-5417,504ff9e4-0b47-43bd-a75f-0028127ecad0,400,75
+DOCSIS 3.0 16x4 (CM1000)-4,A High Speed Cable Modem,,Modem,CAR-3066,212aac1a-f835-4f33-93ac-67d1bf521f26,500,150
+DOCSIS 3.1 Cable Modem (CM1000) -4,A Nighthawk Multi-Gig Cable Modem,,Modem,CAR-5370,330668d4-072b-488f-91a0-8b13937e3891,300,100
+DOCSIS 3.0 24x8 Cable Modem (CM1000)-4,A NETGEAR High Speed 960Mbps Cable Modem,,Modem,ROU-3246,211628c1-aa8d-4095-acde-bcd9d86b2b84,400,75
+COM-G3-L1-403-S5S5-4,A Four-way combiner,,Combiner,MOD-3345,5bd81d9b-d3ee-497b-a378-a6fa73cb9e20,200,50
+BEL T6404 T Series Splitter Trough-4,Distribution Splitter Trough,splitter.jpg,Splitter,SPL-9820,2a0f0538-d020-4714-b93b-c76b25010824,300,75
+T4104 Bel Electrical Splitter-4,superior performance and durability. With a 125 amp capacity,splitter.jpg,Splitter,MUL-1653,7e0bc164-d622-44e8-a3eb-e8b5dadf751d,400,75
+PCS Duplexer Rx (MHz)-4,PCS Rx duplexer ,,Multiplexer,COM-3731,5cabd0c4-bede-4486-bcd2-88773cdf20d1,400,75
+Cisco XR500-4,"Routing Protocols (BGP, OSPF)",,Router,ROU-7065,1f4674dc-5070-4e0f-9075-dc3ec2751159,200,50
+Cisco ISR-4331-4,Cisco Integrated Services Router 4331 ,,Router,COM-8806,17b90375-fe47-4697-8b78-12a271c868ca,200,50
+Cisco Catalyst 2960X-4, Layer 2 Switch with 24 Ports,,Switch,MUL-5512,8313b826-9826-4ce4-8536-e23120b70c6e,400,75
+1x2 Fiber Splitter-4, Used for optical signal splitting,splitter.jpg,Splitter,MOD-3308,6735874d-81b2-41ee-b388-894d306988c5,400,75
+Arris DOCSIS 3.1 Cable Modem-4, Supports Gigabit Speed,,Modem,ROU-5249,399bd352-c8b3-4515-ac2d-b4507d9e8123,200,50
+Optical Power Combiner-4,2x2 configuration for optical fibers,,Combiner,MUL-1414,bc6b195a-a108-4e7d-a353-3c1abc9938b7,300,75
+Ethernet Card-4,Cisco 8-Port Gigabit Ethernet Card for ISR Series,,Card,COM-8090,dc875bb8-a028-4b63-b101-eedb499e0fac,400,75
+Sonet Multiplexer-4,Aggregates voice and data channels,,Multiplexer,CAR-3752,8a705eac-b81d-4566-9057-d032c0c07d30,400,75
+Juniper MX960-4, Core Router with 10GbE Ports,,Router,ROU-4662,962aa5b6-b676-4309-9ce1-a9e2cd8e4ac5,200,50
+HP Aruba 2930F-4,"Managed Layer 3 Switch, 48 Ports",,Switch,ROU-7049,d9b4bc4b-a6e0-4029-b3e6-27b8de5080f7,200,50
+Huawei 5G CPE-4, Wireless Modem for High-Speed Internet,,Modem,COM-7878,d94eac34-adbd-4a94-8284-4393fd7f6a58,400,75
+Cisco ISR 4451-X-4, Enterprise-Class Router,,Router,SPL-2643,e6542964-5dd2-465b-9fb8-71609ba757cc,300,50
+Cisco Nexus 9000-4,Data Center Switch,,Switch,SWI-1135,d419fea9-c5fb-4722-b888-aedd3b5b2695,400,75
+1x4 Optical Splitter-4, Used for optical signal splitting,,Splitter,CAR-9444,c6d8789f-9016-4ebb-91ae-5f9eefa498db,200,50
+ DOCSIS 3.1-4,Netgear Nighthawk Cable Modem,,Modem,COM-3242,e6b19fbd-5db6-40b8-ac7e-647384f733ca,300,75
+2x4 Optical Power Combiner-4,For Fiber Networks,,Combiner,SPL-9423,104f4b4d-f755-49b5-9679-ae321b81cf19,400,75
+Cisco 4-Port FXS Card-4,Cisco 4-Port FXS Card for ISR 4000 Series,card.jpg,Card,CAR-3991,c1d401b6-4f43-4a81-b249-219c8b292de6,400,75
+Division Multiplexer (DWDM)-4,Dense Wavelength Division Multiplexer ,,Multiplexer,MUL-3058,e8e11f5b-5c44-4186-af65-ddf5d2190e50,200,50
+Huawei AR2220-4,Enterprise Router for Branches,,Router,ROU-4442,f0ab73e4-bed8-4b30-b4bf-0105a09d8dd9,200,50
+Juniper EX4300-4,48-Port Layer 3 Switch,,Switch,COM-4156,674d8048-cf4e-46fd-8bab-58fc0c6f8a29,400,75
+TP-Link DOCSIS 3.0 Cable Modem-4,High-Speed Internet,modem.jpg,Modem,MOD-2332,6e751b18-bbd2-4b7d-8b06-379c1aa6797b,300,50
+NetLink-X300-4,High-speed wireless router,,Networking,CAR-8222,37fd9e1c-7743-43e4-92cb-06ea48a331a0,200,25
+SwiftSwitch 24-4,24-port Gigabit Ethernet switch,,Networking,MOD-1514,4d5c5a51-52a9-4e3e-a8b3-ea52e6db1b86,400,75
+FiberSplit-4X-4,Optical fiber splitter (1x4),,Optical,SPL-1376,c5bed99d-9c71-4f68-adef-f78637334be2,400,75
+SpeedModem-1000-4,High-speed DSL modem,,Networking,COM-3906,105888ed-23d6-42ce-827a-ee1685afdf67,200,50
+RFCombiner-8CH-4,8-channel RF signal combiner,,RF Equipment,SWI-7459,c8f41bc9-dae1-4fa7-bc9c-458e043ee7a7,300,75
+NetCard-P100-4,Network interface card with PCIe support,,Components,CAR-5398,d8c56760-2fc8-4511-86dd-b7256e65751b,400,75
+MultiMux-42-4,32-channel multiplexer for signal routing,,Optical,MUL-8875,724a7cae-8c4d-4da2-99d4-de7fc81d25e8,400,75
+StreamRouter-Z500-4,Dual-band router with advanced firewall,,Networking,MUL-2520,8ef8d1fb-74a6-4192-924d-f37eb643ecda,200,50
+ProSwitch 48-4,48-port managed switch,,Networking,ROU-8142,a349fdba-1331-4ba6-9078-562fe74496a3,200,50
+FiberSplit-8X-4,Optical fiber splitter (1x8),,Optical,ROU-8149,5c83fc33-41ca-46e4-a3dc-9118afeecad1,400,75
